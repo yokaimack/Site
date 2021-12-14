@@ -6,8 +6,9 @@
 }
 
 body{
-    background-image: url(./1.jpg);
-    background-size: cover;}
+    background-image: url(./2.jpg);
+    background-size: cover;
+}
 
 ul {
     padding: 0;
@@ -63,6 +64,7 @@ button{
     right: 10px;
     position: absolute;
     margin-right: -10px;
+    display: none;
 }
 
 
@@ -118,7 +120,7 @@ bottom: 8%;
 
 .box h3{
     font-size: 190px;
-    line-height: 300px;
+    line-height: 230px;
     margin-left: -10px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
